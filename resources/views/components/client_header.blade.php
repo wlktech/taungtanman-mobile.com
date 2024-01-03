@@ -1,8 +1,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="{{ asset('assets/logo_1.png') }}" rel="icon">
-  <title>Win Mobile</title>
+  <link href="{{ asset('assets/img/logo.jpg') }}" rel="icon">
+  <title>Taungtanman Mobile</title>
 
   <!-- bootstrap css1 js1 -->
   <link href="{{ asset('bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">

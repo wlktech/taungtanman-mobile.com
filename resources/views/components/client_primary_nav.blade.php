@@ -2,7 +2,7 @@
 <section class="container-fluid row">
  <nav class="navbar navbar-expand-md fixed-top px-2">
   <a href="{{ url('/') }}" class="navbar-brand col-lg-1 col-md-1 d-flex justify-content-start">
-   <img src="{{ asset('assets/logo_1.png') }}" class="d-inline" alt="" style="width:60px;height:auto" />
+   <img src="{{ asset('assets/img/logo.jpg') }}" class="d-inline" alt="" style="width:60px;height:auto" />
    <!-- <span  class="logo d-inline fw-bold"> Win <br/> <small>Mobile</small></span> -->
   </a>
 

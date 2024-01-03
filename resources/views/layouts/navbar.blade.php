@@ -26,9 +26,9 @@
 			<div class="brand">
 				<a href="{{ url('/') }}" class="brand-logo">
 					<span class="brand-img">
-						<span class="brand-img-text text-theme">W</span>
+						<span class="brand-img-text text-theme">T</span>
 					</span>
-					<span class="brand-text">Win Mobile</span>
+					<span class="brand-text">Taungtanman Mobile</span>
 				</a>
 			</div>
 			<!-- END brand -->

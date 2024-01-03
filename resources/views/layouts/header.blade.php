@@ -2,7 +2,8 @@
 <html lang="en" data-bs-theme="dark">
 <head>
 	<meta charset="utf-8">
-	<title>HUD | Dashboard</title>
+	<title>Taungtaman Mobile</title>
+	<link href="{{ asset('assets/img/logo.jpg') }}" rel="icon">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="">
 	<meta name="author" content="">
